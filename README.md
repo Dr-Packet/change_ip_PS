@@ -6,7 +6,9 @@ If n asks for IP address information and assigns static stuff
 
 
 
-This can either be ran in PowerShell as an Admin or it can ran via a shortcut that is marked Run as Admin
+This can either be ran in PowerShell as an Admin or you can store this somewhere and add that location to the PATH environmental variable
+
+Guide: https://www.windowscentral.com/how-create-and-run-your-first-powershell-script-file-windows-10
 
 
 
